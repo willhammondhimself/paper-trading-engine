@@ -1,0 +1,3 @@
+[submodule "strategies/volatility-arbitrage"]
+	path = strategies/volatility-arbitrage
+	url = https://github.com/willhammondhimself/adaptive-volatility-arbitrage.git
