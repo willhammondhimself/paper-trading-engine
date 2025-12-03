@@ -60,3 +60,4 @@ dmypy.json
 
 # Ruff
 .ruff_cache/
+backtest_equity_curve.png
